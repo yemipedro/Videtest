@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Videtest</string>
+    <string name="status_not_connected">You\'re not connected to the internet</string>
+    <string name="course_num_views">Number of views: %d</string>
+    <string name="course_num_subs">Number of subscribers: %d</string>
+    <string name="label_course">Course</string>
+</resources>
